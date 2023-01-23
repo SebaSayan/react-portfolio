@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c23eec11.css",
+    "main.js": "/static/js/main.b12fea11.js",
+    "static/media/Questrial-Regular.ttf": "/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
+    "static/media/Michroma-Regular.ttf": "/static/media/Michroma-Regular.c12a12d1198168c85097.ttf",
+    "index.html": "/index.html",
+    "main.c23eec11.css.map": "/static/css/main.c23eec11.css.map",
+    "main.b12fea11.js.map": "/static/js/main.b12fea11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23eec11.css",
+    "static/js/main.b12fea11.js"
+  ]
+}
